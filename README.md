@@ -1,6 +1,6 @@
 # Mysophobia
 ---
-## [Demo Video](https://youtu.be/TCq2Ajh_fnE)
+## [Demo Video](https://youtu.be/uLNvlpdSDJE)
 
 ## What It Is
 Mysophobia is an application that allows you to filter out restaurants and hotels that have received health scores lower than you are comfortable patronizing.
