@@ -51,8 +51,7 @@ The user is now allowed to see the establishments on Google Maps easily recogniz
 
 ## Challenges
 <p>
-    <img src='images/trello.png'></img>
-</p>
+    <img src='trello.png'
 ### Group
 This was our first real group project. We all worked well together and took suggestions from each other extremely proffesionally.
 This was the first time though where we had to merge our code with others that created conflicts within the code. We had to make sure that the code was in the correct branch and wasn't deleting anything important.
