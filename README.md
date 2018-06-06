@@ -50,7 +50,7 @@ The application returns the results with establishments below their health score
 The user is now allowed to see the establishments on Google Maps easily recognized with their nefarious icon drop pin
 
 ## Challenges
-<p align='center'>
+<p>
     <img src='images/trello.png'></img>
 </p>
 ### Group
