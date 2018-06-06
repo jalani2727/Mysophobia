@@ -51,7 +51,7 @@ The user is now allowed to see the establishments on Google Maps easily recogniz
 
 ## Challenges
 <p align='center'>
-    <img src='images/home.png'></img>
+    <img src='images/trello.png'></img>
 </p>
 
 ### Group
