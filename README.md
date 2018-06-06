@@ -41,19 +41,13 @@ The markers are green, yellow or red depending on the restaurant score's relatio
 
 ### Transaction
 Users are then allowed to enter the lowest health score of an establishment they are willing to patronize
-<p align='center'>
-    <img src='screenshots/map_view.png'></img>
-</p>
+
 
 ### List of "Offenders"
-The application returns the results with establishments below their health score standard<p align='center'>
-    <img src='screenshots/subcategory.png'></img>
-</p>
+The application returns the results with establishments below their health score standard
 
 ### Google Map
 The user is now allowed to see the establishments on Google Maps easily recognized with their nefarious icon drop pin
-<img src='screenshots/subcategory.png'></img>
-</p>
 
 ## Challenges
 
